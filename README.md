@@ -38,6 +38,6 @@ usage
 installation
 ============
 
-`git clone https://github.com/whackashoe/ddostop.git`
-`cd ddostop`
-`./install.sh` OR use as is
+    git clone https://github.com/whackashoe/ddostop.git
+    cd ddostop
+    ./install.sh #OR use as is
